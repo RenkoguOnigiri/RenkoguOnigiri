@@ -1,10 +1,10 @@
 Himanshu Kothari
 
-Molecular Biology • Biochemistry • Bioinformatics
+**Molecular Biology • Biochemistry • Bioinformatics**
 
 I study biological systems at the molecular level using a combination of wet-lab experimentation and computational analysis. My goal is to understand how molecular interactions scale into cellular and ecological behavior.
 
-Current Focus
+**_Current Focus_**
 
 Metagenomic sequencing analysis
 
@@ -14,19 +14,19 @@ Reproducible analysis pipelines
 
 Hypothesis-driven data interpretation
 
-Skills
+**_Skills_**
 
-Wet Lab
+**Wet Lab**
 Cloning • Expression • Protein purification • DNA/RNA extraction • PCR
 
-Computational
+**Computational**
 Linux • Python • R • NGS workflows • Sequence analysis • Structural prediction
 
-Ongoing Projects
+**Ongoing Projects**
 
 See pinned repositories below for full reproducible workflows and reports.
 
-Research Goal
+**Research Goal**
 
 PhD in molecular microbiology / biochemical mechanisms / genomics
 
