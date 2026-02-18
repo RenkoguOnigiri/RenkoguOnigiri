@@ -32,8 +32,8 @@ Cryo-EM Image Processing (Scipion, Relion, CryoSparc etc)
 Staining techniques (IF, IHC, HCR-FISH, etc.) Blood film preparation and identification of cells
 
 **Analytical Chemistry**
-Gas Chromatography Chromatography [TLC, PC, Column] mass spectrometry high-performance liquid
-chromatography
+Gas Chromatography Chromatography [TLC, PC, Column] Mass Spectrometry, High-Performance Liquid
+Chromatography
 
 **Sequencing/NGS**
 Illumina Sanger Sequencing Oxford Nanopore Sequencing
