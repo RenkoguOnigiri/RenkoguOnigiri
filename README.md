@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @RenkoguOnigiri, A molecular biologist venturing on to the journey of computational Biology.  
-- 👀 I’m interested in NGS Analysis, Protein Simulations, Docking  
-- 🌱 I’m currently learning Python and R  
-- 💞️ I’m looking to collaborate on Wet lab data analysis
-- 📫 How to reach me: himanshukothari0302@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am coming back to computer programming after my high school, a whole decade after
+Himanshu Kothari
 
-<!---
-RenkoguOnigiri/RenkoguOnigiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Molecular Biology • Biochemistry • Bioinformatics
+
+I study biological systems at the molecular level using a combination of wet-lab experimentation and computational analysis. My goal is to understand how molecular interactions scale into cellular and ecological behavior.
+
+Current Focus
+
+Metagenomic sequencing analysis
+
+Protein structure and interaction prediction
+
+Reproducible analysis pipelines
+
+Hypothesis-driven data interpretation
+
+Skills
+
+Wet Lab
+Cloning • Expression • Protein purification • DNA/RNA extraction • PCR
+
+Computational
+Linux • Python • R • NGS workflows • Sequence analysis • Structural prediction
+
+Ongoing Projects
+
+See pinned repositories below for full reproducible workflows and reports.
+
+Research Goal
+
+PhD in molecular microbiology / biochemical mechanisms / genomics
+
+Contact
+
+Email: himanshukothari0302@gmail.com
+LinkedIn: https://www.linkedin.com/in/hkhimanshu
