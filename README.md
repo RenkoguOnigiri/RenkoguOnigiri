@@ -17,11 +17,11 @@ Hypothesis-driven data interpretation
 **_Skills_**
 
 **Cell Culture**
-Plant Tissue Culture Virology (BSL 3) Bacteria, yeast and mammalian cells culture cultivation
+Plant Tissue Culture, Virology (BSL 3), Bacteria, yeast and mammalian cells culture cultivation
 
 **Molecular Biology**
-DNA, RNA, and protein isolation PCR and RT-qPCR SDS Page Gene Cloning (Designing Plasmid Vector,
-Transformation, Colony Screening) Protein Purification (IEX, SEC, IMAC, RP) Western Blots Protein Expression
+DNA, RNA, and protein isolation PCR, RT-qPCR, SDS-PAGE, Gene Cloning (Designing Plasmid Vector,
+Transformation, Colony Screening), Protein Purification (IEX, SEC, IMAC, RP), Western Blots, Protein Expression
 Single guide RNA (SgRNA) designing for CRISPR-CAS9
 
 **Microscopy**
