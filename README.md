@@ -16,11 +16,31 @@ Hypothesis-driven data interpretation
 
 **_Skills_**
 
-**Wet Lab**
-Cloning • Expression • Protein purification • DNA/RNA extraction • PCR
+**Cell Culture**
+Plant Tissue Culture Virology (BSL 3) Bacteria, yeast and mammalian cells culture cultivation
 
-**Computational**
-Linux • Python • R • NGS workflows • Sequence analysis • Structural prediction
+**Molecular Biology**
+DNA, RNA, and protein isolation PCR and RT-qPCR SDS Page Gene Cloning (Designing Plasmid Vector,
+Transformation, Colony Screening) Protein Purification (IEX, SEC, IMAC, RP) Western Blots Protein Expression
+Single guide RNA (SgRNA) designing for CRISPR-CAS9
+
+**Microscopy**
+TEM & Light microscope Cryo-EM Image Acquisition (EPU, SerialEM, Gatan DM) Confocal microscope - Leica
+Cryo-EM Image Processing (Scipion, Relion, CryoSparc etc)
+
+**Immunology**
+Staining techniques (IF, IHC, HCR-FISH, etc.) Blood film preparation and identification of cells
+
+**Analytical Chemistry**
+Gas Chromatography Chromatography [TLC, PC, Column] mass spectrometry high-performance liquid
+chromatography
+
+**Sequencing/NGS**
+Illumina Sanger Sequencing Oxford Nanopore Sequencing
+
+**Bioinformatics**
+Analysis of amplicon datasets (QIIME) Pipelining and version control: Snakemake, Nextflow, Conda, etc
+Metagenomic Data Analysis Genome assembly
 
 **Ongoing Projects**
 
