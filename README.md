@@ -39,7 +39,7 @@ Chromatography
 Illumina Sanger Sequencing Oxford Nanopore Sequencing
 
 **Bioinformatics**
-Analysis of amplicon datasets (QIIME) Pipelining and version control: Snakemake, Nextflow, Conda, etc
+Analysis of amplicon datasets (QIIME), Pipelining and version control: Snakemake, Nextflow, Conda, etc
 Metagenomic Data Analysis Genome assembly
 
 **Ongoing Projects**
