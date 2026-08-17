@@ -177,7 +177,7 @@ research_goal = "PhD in molecular microbiology · genomics · biochemical mechan
 |---------|------|
 | 📧 Email | [himanshukothari0302@gmail.com](mailto:himanshukothari0302@gmail.com) |
 | 💼 LinkedIn | [in/hkhimanshu](https://www.linkedin.com/in/hkhimanshu/) |
-| 🏛️ Institution | [CSIR–CCMB, Hyderabad](https://www.ccmb.res.in/) | [CSIR–NCL, Pune](https://www.ncl.res.in/) | [CSIR–CIMAP, Lucknow](https://www.cimap.res.in/)
+| 🏛️ Institution(s) | [CSIR–CCMB, Hyderabad](https://www.ccmb.res.in/) | [CSIR–NCL, Pune](https://www.ncl.res.in/) | [CSIR–CIMAP, Lucknow](https://www.cimap.res.in/)
 
 *Open to PhD opportunities in biochemistry, molecular biology, genomics, infection and computational biology.*
 
