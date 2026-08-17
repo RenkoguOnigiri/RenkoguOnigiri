@@ -20,7 +20,7 @@
 name:        Himanshu Kothari
 handle:      RenkoguOnigiri
 location:    Hyderabad, India
-affiliation: CSIR – Centre for Cellular and Molecular Biology
+affiliation: CSIR–CCMB, Hyderabad; CSIR-NCL, Pune; CSIR-CIMAP, Lucknow
 focus:       Metagenomic sequencing · Protein structure prediction · Reproducible pipelines
 goal:        PhD in Interdisciplinary Biochemistry/Molecular Biology/Biotechnology/Oceanography
 ```
